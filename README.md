@@ -4,7 +4,7 @@ An information landing page for a laundromat coffee bar.
 
 ## Made with
 
-HTML, CSS, Javascript 
+HTML, CSS, Bootstrap
 
 ## Demo
 
