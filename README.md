@@ -10,5 +10,5 @@ HTML, CSS, Bootstrap
 
 ## Inital Mock Up 
 
-![MockUp](assets/MockUp/Coffee and Laundry.png)
+![MockUp](assets/MockUp/CoffeeandLaundry.png)
 
