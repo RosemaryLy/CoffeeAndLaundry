@@ -8,3 +8,7 @@ HTML, CSS, Bootstrap
 
 ## Demo
 
+## Inital Mock Up 
+
+![MockUp](assets/MockUp/Coffee and Laundry.png)
+
