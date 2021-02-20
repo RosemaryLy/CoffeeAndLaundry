@@ -31,3 +31,12 @@ p{
   font-size: large;
   color:#654321;
 }
+
+.nav-link:hover{
+  color:#fada24
+}
+
+i{
+  color: #000000
+
+}
