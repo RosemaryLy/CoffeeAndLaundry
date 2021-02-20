@@ -3,10 +3,31 @@
     src: url('/assets/fonts/Kollektif.ttf')  format('truetype');
   }
   @font-face {
-    font-family: 'Pirou-Regular' !important;
+    font-family: 'Pirou-Regular';
     src: url('/assets/fonts/Pirou-Regular.otf') format('opentype') ;
+  }
+
+  h2{
+      font-family: 'Kollektif';
+      font-weight: 100;
+      font-size: medium;
   }
 
   h3 {
   font-family: 'Pirou-Regular';
+  font-weight: 200;
+  font-size: larger;
+}
+
+p{
+  font-family: 'Kollektif';
+  font-weight: 100;
+  font-size: medium;
+}
+
+.nav-link{
+  font-family: 'Pirou-Regular';
+  font-weight: 100;
+  font-size: large;
+  color:#654321;
 }

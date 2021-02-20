@@ -33,7 +33,7 @@
     <div class="collapse navbar-collapse nav justify-content-center " id="navbarNav">
       <ul class="nav justify-content-center">
           <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-          <a class="nav-link" href="#">About Us</a>
+          <a class="nav-link" href="#AboutUs">About Us</a>
           <a class="nav-link" href="#">Services</a>
           <a class="nav-link" href="#">Location</a>
       </ul>
@@ -67,8 +67,8 @@
   
   <!-- Third Container -->
   <section>
-  <div class="container-fluid bg-2 text-center">
-    <h3>About Us</h3>
+  <div class="container-fluid bg-2 text-center" >
+    <h3 id="AboutUs">About Us</h3>
     <p>We are a full service coffee bar and laundromat located in The Junction!  </p>
   </div>
 </section>
@@ -100,8 +100,16 @@
   
 <hr class="featurette-divider">
   <!-- Footer -->
-  <footer class="container-fluid-fluid text-center">
-    <p> Coffee and Laundry 2021
+  <footer class="container-fluid">
+      <div class="row">
+        <div class="col align-self-start">
+          <img src="assets/Logo.png" height=50 width=50 alt="CoffeeandLaundryLogo">
+        </div>
+        <div class="col align-self-center">
+         <p>Coffee and Laundry 2021</p>
+        </div>
+      </div>
+    </div>  
   </footer>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
