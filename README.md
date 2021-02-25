@@ -7,7 +7,7 @@ An information landing page for a laundromat coffee bar.
 HTML, CSS, Bootstrap
 
 ## Demo
-
+![Demo](https://rosemaryly.github.io/CoffeeAndLaundry/)
 ## Inital Mock Up 
 
 ![MockUp](assets/MockUp/CoffeeandLaundry.png)
