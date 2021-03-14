@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Kollektif';
-    src: url('/assets/fonts/Kollektif.ttf')  format('truetype');
+    src: url('./assets/fonts/Kollektif.ttf')  format('truetype');
   }
   @font-face {
     font-family: 'Pirou-Regular';
-    src: url('/assets/fonts/Pirou-Regular.otf') format('opentype') ;
+    src: url('./assets/fonts/Pirou-Regular.otf') format('opentype') ;
   }
 
   h2{
