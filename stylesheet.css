@@ -41,22 +41,6 @@ i{
 
 }
 
-.flip-card {
-  background-color: transparent;
+.border-warning :hover{
+  transform: skewX(20deg);
 }
-
-.flip-card-inner {
-  transition: transform 1.0s;
-  transform-style: preserve-3d;
-}
-.flip-card:hover .flip-card-inner {
-  transform: rotateY(180deg);
-}
-.flip-card-front, .flip-card-back {
-  -webkit-backface-visibility: hidden; /* Safari */
-  backface-visibility: hidden;
-}
-
-/* Style the back side */
-.flip-card-back {
-  transform: rotateY(-180deg);}
