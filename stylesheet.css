@@ -42,5 +42,5 @@ i{
 }
 
 .hover-card :hover{
-  transform: scale(0.5) translateY(-15px)
+  transform: scale(1) translateY(15px)
 }
