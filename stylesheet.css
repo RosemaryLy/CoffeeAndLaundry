@@ -41,6 +41,6 @@ i{
 
 }
 
-.border-warning :hover{
-  transform: skewX(20deg);
+.hover-card :hover{
+  transform: scale(0.5) translateY(-15px)
 }
